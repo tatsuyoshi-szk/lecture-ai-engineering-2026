@@ -1,0 +1,201 @@
+{
+  "summary": {
+    "label": "after",
+    "n": 21,
+    "format_rate": 1.0,
+    "content_rate": 0.9523809523809523,
+    "both_rate": 0.9523809523809523,
+    "seconds": 38.3
+  },
+  "rows": [
+    {
+      "question": "同時に借りてよい本の冊数は？",
+      "raw": "{\"answer\": \"本の貸出冊数は、1 人につき 5 冊までです。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "一人あたりの本の貸出上限を教えてください",
+      "raw": "{\"answer\": \"本の貸出冊数は、1 人につき 5 冊までです。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "一度に何冊の本を借りてもよいですか",
+      "raw": "{\"answer\": \"本の貸出冊数は、1 人につき 5 冊までです。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "本を借りてから返すまでの期間は？",
+      "raw": "{\"answer\": \"本の貸出期間は、貸出日から 14 日間です。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "本を借りた日から何日間借りておけますか",
+      "raw": "{\"answer\": \"本の貸出期間は、貸出日から 14 日間です。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "通常の本の貸出は何日間ですか",
+      "raw": "{\"answer\": \"本の貸出期間は、貸出日から 14 日間です。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "平日の開館時刻と閉館時刻は？",
+      "raw": "{\"answer\": \"平日の開館時間は 10:00〜18:00 です。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "月曜日から金曜日の開館時間帯を教えてください",
+      "raw": "{\"answer\": \"平日の開館時間は 10:00〜18:00 です。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "平日は何時に開いて何時に閉まりますか",
+      "raw": "{\"answer\": \"平日の開館時間は 10:00〜18:00 です。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "借りた本の返却先は？",
+      "raw": "{\"answer\": \"本の返却は、館内の返却カウンターまたは入口の返却箱で受け付けます。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "本の返却ができる二つの場所を教えてください",
+      "raw": "{\"answer\": \"本の返却は、館内の返却カウンターまたは入口の返却箱で受け付けます。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "返却カウンター以外に本を返せる場所はありますか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "貸出延長の条件・回数・期間は？",
+      "raw": "{\"answer\": \"貸出延長は、予約がない本に限り 1 回だけ、7 日間できます。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "予約のない本の延長回数と延長できる日数は？",
+      "raw": "{\"answer\": \"貸出延長は、予約がない本に限り 1 回だけ、7 日間できます。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "本を延長したいときの条件、回数、日数を教えてください",
+      "raw": "{\"answer\": \"貸出延長は、予約がない本に限り 1 回だけ、7 日間できます。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "返却が遅れたときの延滞料金はいくらですか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    },
+    {
+      "question": "学習室はどのように予約しますか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    },
+    {
+      "question": "祝日の開館時間は何時から何時までですか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    },
+    {
+      "question": "図書館の住所を教えてください",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    },
+    {
+      "question": "読みたい本の購入リクエストは受け付けていますか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    },
+    {
+      "question": "他の図書館から本を取り寄せることはできますか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    }
+  ]
+}
